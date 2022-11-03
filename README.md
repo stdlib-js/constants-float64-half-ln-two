@@ -31,6 +31,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import HALF_LN2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-half-ln-two@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/constants-float64-half-ln-two/tags). For example,
+
+```javascript
 import HALF_LN2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-half-ln-two@v0.0.8-deno/mod.js';
 ```
 
@@ -56,7 +61,7 @@ var bool = ( HALF_LN2 === 3.46573590279972654709e-01 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import HALF_LN2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-half-ln-two@v0.0.8-deno/mod.js';
+import HALF_LN2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-half-ln-two@deno/mod.js';
 
 console.log( HALF_LN2 );
 // => 3.46573590279972654709e-01
