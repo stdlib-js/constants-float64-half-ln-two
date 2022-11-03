@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import HALF_LN2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-half-ln-two@esm/index.mjs';
+import HALF_LN2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-half-ln-two@v0.0.8-esm/index.mjs';
 ```
 
 #### HALF_LN2
@@ -61,7 +61,7 @@ var bool = ( HALF_LN2 === 3.46573590279972654709e-01 );
 <body>
 <script type="module">
 
-import HALF_LN2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-half-ln-two@esm/index.mjs';
+import HALF_LN2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-half-ln-two@v0.0.8-esm/index.mjs';
 
 console.log( HALF_LN2 );
 // => 3.46573590279972654709e-01
