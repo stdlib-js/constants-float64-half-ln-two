@@ -144,7 +144,7 @@ Macro for one half times the [natural logarithm][@stdlib/math/base/special/ln] o
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/constants/float64/ln-two`][@stdlib/constants/float64/ln-two]</span><span class="delimiter">: </span><span class="description">natural logarithm of 2.</span>
+-   <span class="package-name">[`@stdlib/constants-float64/ln-two`][@stdlib/constants/float64/ln-two]</span><span class="delimiter">: </span><span class="description">natural logarithm of 2.</span>
 
 </section>
 
