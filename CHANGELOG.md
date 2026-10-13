@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-10-13)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`30ad8ec`](https://github.com/stdlib-js/stdlib/commit/30ad8ec0d36d5bf031538573371e21eb65176f74) - **test:** migrate `constants/float64/half-ln-two` to ULP-based assertions [(#16098)](https://github.com/stdlib-js/stdlib/pull/16098) _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.3">
 
 ## 0.2.3 (2026-02-07)
